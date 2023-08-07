@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sjaswant55&label=Profile%20views&color=0e75b6&style=flat" alt="sjaswant55" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sjaswant55" alt="sjaswant55" /></a> </p>
+
 - 🌱 I’m currently learning **Django, Node-Js**
 
 - 👨‍💻 All of my projects are available at [https://personal-portfolio-t3ev.onrender.com/](https://personal-portfolio-t3ev.onrender.com/)
@@ -18,6 +20,7 @@
 <a href="https://www.codechef.com/users/jaswant55" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="jaswant55" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/2020uch1410" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="2020uch1410" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/adrian_lamo_55" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="adrian_lamo_55" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/s_jaswant55" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="s_jaswant55" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
