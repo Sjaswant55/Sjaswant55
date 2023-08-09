@@ -29,6 +29,6 @@
 <p>   <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Sjaswant55&theme=react&line_height=40&hide=css"/> </a>
   </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sjaswant55&show_icons=true&locale=en" alt="sjaswant55" /></p>
+<p>&nbsp;<a> <img align="center" src="https://github-readme-stats.vercel.app/api?username=sjaswant55&show_icons=true&locale=en" alt="sjaswant55" /> </a></p>
 
  
